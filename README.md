@@ -1,6 +1,9 @@
 # loveflix
 Projeto "Recriando a interface da Netflix"!
-Apenas para aprendizado. Inspirado na página inicial da Netflix
+
+Apenas para aprendizado.
+
+Inspirado na página inicial da Netflix
 
 o Loveflix
 
